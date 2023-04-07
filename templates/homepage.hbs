@@ -2,23 +2,34 @@
 
 <main>
 
-    <h1>My Unreact App</h1>
+    <h1>Dog Food</h1>
 
-    <p>
-        This app was made using <a href="https://github.com/darccyy/unreact-template">Unreact Template</a>
-    </p>
+    <div>
+        {{#each entries}}
+        <hr />
+        <article>
 
-    <p>
-        Secret message: <em> '{{secret}}' </em>
-    </p>
+            <h1>{{name}} - {{verdict}}</h1>
 
-    <p>
-        <a href="{{URL}}not/a/real/path"> 404 Example </a>
-    </p>
+            <p>{{description}}</p>
 
-    <br />
+            {{#if sources}}
+            <ul>
+                {{#each sources}}
+                <li> {{this}} </li>
+                {{/each}}
+            </ul>
+            {{/if}}
 
-    <img src="{{URL}}public/icon.png" alt="Unreact Icon" />
+            {{#if review}}
+            <blockquote>
+                {{review}}
+            </blockquote>
+            {{/if}}
+
+        </article>
+        {{/each}}
+    </div>
 
 </main>
 
