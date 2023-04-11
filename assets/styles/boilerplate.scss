@@ -5,6 +5,10 @@ body {
 
     a {
         color: inherit;
+
+        &:not(:hover, :focus-visible) {
+            text-decoration: none;
+        }
     }
 
     main {

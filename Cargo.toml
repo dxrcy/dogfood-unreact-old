@@ -4,10 +4,11 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+unreact = { version = "0.5.4", default-features = false }
 markdown = "0.3.0"
 regex = "1.7.3"
 serde = { version = "1.0.159", features = ["derive"] }
-unreact = { version = "0.5.2", default-features = false }
+handlebars = "4.3.6"
 
 [features]
 default = ["unreact/watch"]

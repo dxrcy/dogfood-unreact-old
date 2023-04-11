@@ -1,0 +1,42 @@
+main {
+    .short-list {
+        // background-color: blue;
+        margin-bottom: 20px;
+
+        ul {
+            margin: 0;
+        }
+    }
+
+    .long-list {
+        // background-color: red;
+    }
+
+    @media (min-width: 600px) {
+        display: flex;
+
+        .short-list {
+            height: fit-content;
+            flex-shrink: 0;
+
+            margin-right: 30px;
+            padding-right: 30px;
+            padding-top: 30px;
+            padding-bottom: 60px;
+
+            border-right: 2px ridge grey;
+        }
+
+        .long-list {
+            width: 100%;
+
+            hr:first-of-type {
+                display: none;
+            }
+
+            article:first-of-type h1 {
+                margin-top: 0;
+            }
+        }
+    }
+}

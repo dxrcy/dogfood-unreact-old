@@ -351,6 +351,7 @@ dependencies = [
 name = "dogfood"
 version = "0.1.0"
 dependencies = [
+ "handlebars",
  "markdown",
  "regex",
  "serde",
@@ -1592,9 +1593,9 @@ checksum = "c0edd1e5b14653f783770bce4a4dabb4a5108a5370a5f5d8cfe8710c361f6c8b"
 
 [[package]]
 name = "unreact"
-version = "0.5.2"
+version = "0.5.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "419aba10bc570569006410a451aad7a79a571d5d035dd4dcc769fd022899e864"
+checksum = "74f16afbeaaf004c79f869dc369a482421b3bed28bbb23c8ac68760a80a75bfe"
 dependencies = [
  "chrono",
  "const-str",

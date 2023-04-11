@@ -1,0 +1,27 @@
+{{>CSS name="~"}}
+
+{{#>boilerplate}}
+
+{{>Heading}}
+<main>
+
+    <div class="short-list">
+        <ul>
+            {{#each entries}}
+            <li>
+                {{>ItemName}}
+            </li>
+            {{/each}}
+        </ul>
+    </div>
+
+    <div class="long-list">
+        <hr />
+        {{#each entries}}
+        {{>Item}}
+        <hr />
+        {{/each}}
+    </div>
+
+</main>
+{{/boilerplate}}

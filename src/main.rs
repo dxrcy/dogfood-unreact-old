@@ -1,3 +1,4 @@
+use dogfood::register_helpers;
 use unreact::prelude::*;
 
 // Where the site is hosted
@@ -14,9 +15,11 @@ fn main() -> Result<(), Error> {
 
     let entries = dogfood::get_entries();
 
+    register_helpers(app.handlebars());
+
     app
         // Index page
-        .index("homepage", object! { entries })?
+        .index("~", object! { entries })?
         // 404 page
         .not_found("404", object! {})?
         // Complete app
