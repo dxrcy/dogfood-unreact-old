@@ -1,9 +1,11 @@
-{{>CSS name="Item"}}
+<article class="Item" id="{{id name}}">
 
-<article class="Item">
+    <hr />
 
-    <h1 id="{{(id name)}}">
-        {{>ItemName}}
+    <h1>
+        <a href="#{{id name}}">
+            {{name}} - <i>{{verdict}}</i>
+        </a>
     </h1>
 
     <p>{{description}}</p>

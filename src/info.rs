@@ -13,9 +13,9 @@ impl Serialize for Verdict {
         S: serde::Serializer,
     {
         match *self {
-            Self::Good => serializer.serialize_unit_variant("Verdict", 0, "Good"),
-            Self::Bad => serializer.serialize_unit_variant("Verdict", 1, "Bad"),
-            Self::Maybe => serializer.serialize_unit_variant("Verdict", 2, "Maybe"),
+            Self::Good => serializer.serialize_unit_variant("Verdict", 0, "Yes!"),
+            Self::Bad => serializer.serialize_unit_variant("Verdict", 1, "NO!"),
+            Self::Maybe => serializer.serialize_unit_variant("Verdict", 2, "Maybe..."),
         }
     }
 }
@@ -36,42 +36,34 @@ impl TryFrom<&str> for Verdict {
 #[derive(Serialize)]
 pub struct Entry {
     pub name: String,
+    pub tags: Vec<String>,
     pub verdict: Verdict,
     pub description: String,
     pub sources: Vec<String>,
     pub review: Option<String>,
 }
 
+#[derive(Default)]
 struct EntryBuild<'a> {
     pub name: Option<&'a str>,
+    pub tags: Vec<&'a str>,
     pub verdict: Option<Verdict>,
     pub description: Vec<&'a str>,
     pub sources: Vec<&'a str>,
     pub review: Option<&'a str>,
 }
 
-impl<'a> EntryBuild<'a> {
-    pub fn new() -> Self {
-        Self {
-            name: None,
-            verdict: None,
-            description: Vec::new(),
-            sources: Vec::new(),
-            review: None,
-        }
-    }
-}
-
 pub fn get_entries() -> Vec<Entry> {
     let file = include_str!("info.md");
 
     let mut entries = Vec::new();
-    let mut entry_build = EntryBuild::new();
+    let mut entry_build = EntryBuild::default();
 
     macro_rules! push_entry {
         () => {
             entries.push(Entry {
                 name: entry_build.name.expect("No name given!").to_string(),
+                tags: entry_build.tags.iter().map(|x| x.to_string()).collect(),
                 verdict: entry_build
                     .verdict
                     .expect("No verdict given, or is invalid!"),
@@ -97,8 +89,12 @@ pub fn get_entries() -> Vec<Entry> {
                     push_entry!();
                 }
                 first_heading_occurred = true;
-                entry_build = EntryBuild::new();
+                entry_build = EntryBuild::default();
                 entry_build.name = Some(rest);
+            }
+
+            "`" => {
+                entry_build.tags = rest.split(',').map(|tag| tag.trim()).collect();
             }
 
             "-" => {
@@ -108,7 +104,7 @@ pub fn get_entries() -> Vec<Entry> {
                 entry_build.verdict = rest.try_into().ok();
             }
 
-            token if Regex::new(r"^\d+\.$").unwrap().is_match(token) => {
+            _ if Regex::new(r"^\d+\.$").unwrap().is_match(token) => {
                 entry_build.sources.push(rest);
             }
 
@@ -128,6 +124,14 @@ pub fn get_entries() -> Vec<Entry> {
 }
 
 fn split_token(line: &str) -> (&str, &str) {
+    let line = line.trim();
+    if line.starts_with('`') && line.ends_with('`') {
+        let mut chars = line.chars();
+        chars.next();
+        chars.next_back();
+        return ("`", chars.as_str());
+    }
+
     match line.find(' ') {
         Some(pos) => {
             let (a, b) = line.split_at(pos);
