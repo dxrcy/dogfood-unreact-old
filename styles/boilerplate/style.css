@@ -1,1 +1,1 @@
-body{font-family:Arial,Helvetica,sans-serif;background:#111;color:white}body a{color:inherit}
+body{font-family:Arial,Helvetica,sans-serif;background:#111;color:white}body a{color:inherit}body a:not(:hover, :focus-visible){text-decoration:none}
