@@ -11,11 +11,11 @@ Never give a dog alcohol or products containing it. Alcohol is very dangerous fo
 
 # Almonds
 
-In moderation
-
 `nut, fruit, white`
 
 -   MAYBE
+
+In moderation.
 
 It is best to limit almonds in your dog’s diet. Although plain, unsalted almonds are generally safe for dogs to eat in small amounts, they are difficult for dogs to digest and may lead to vomiting and diarrhea. Almonds are also high in fat and calories and have the potential to cause weight gain and pancreatitis in dogs. If you feed your dog almonds, it is best to give very small servings.
 
@@ -108,11 +108,11 @@ Yes, dogs can eat blueberries. Blueberries are a superfood rich in antioxidants,
 
 # Bones
 
-Raw only
-
 `meat, bone, marrow, chicken`
 
 -   MAYBE
+
+Raw only.
 
 Bones are a good source of minerals and other nutrients and help satisfy your dog's appetite. ... Don't give you dog cooked bones of any kind. Don't let your dog chew any kind of bone into small pieces. Don't give your dog chunks of bone that can cause blockages. Do not feed dogs chicken bones, weather cooked or raw, as they are weak and can splinter in your dog's mouth.
 
@@ -122,11 +122,11 @@ Bones are a good source of minerals and other nutrients and help satisfy your do
 
 # Bread
 
-Cooked
-
 `grain, brown`
 
 -   OK
+
+Cooked.
 
 Plain white or whole grain bread is safe for most dogs to eat as an occasional treat. Before feeding your dog bread, make sure it doesn’t contain any extra ingredients, such as raisins, which could be potentially harmful. Additionally, keep in mind that bread, along with other foods, adds extra calories to your dog’s diet and may cause weight gain if he eats too much.
 
@@ -136,11 +136,11 @@ Plain white or whole grain bread is safe for most dogs to eat as an occasional t
 
 # Bread dough
 
-Raw or undercooked
-
 `grain, raw, white`
 
 -   BAD
+
+Raw or undercooked.
 
 While bread is generally safe for dogs, the dough can be very dangerous. The yeast in dough can cause it to keep expanding inside the dog’s stomach, which can cause bloating and lead to dangerous complications. The yeast also produces ethanol, and this can cause alcohol poisoning.
 
@@ -149,11 +149,11 @@ While bread is generally safe for dogs, the dough can be very dangerous. The yea
 
 # Broccoli
 
-Be careful
-
 `veggie, vegetable, green`
 
 -   MAYBE
+
+Be careful.
 
 Yes, broccoli is safe for dogs to eat in very small quantities and is best served as an occasional treat. It is high in fiber and vitamin C and low in fat. However, Broccoli florets contain isothiocyanates, which can cause mild-to-potentially-severe gastric irritation in some dogs. Furthermore, broccoli stalks have been known to cause obstruction in the esophagus.
 
@@ -172,11 +172,11 @@ Yes, dogs can eat Brussels sprouts. Brussels sprouts are loaded with nutrients a
 
 # Cantaloupe
 
-In moderation; High in sugar
-
 `fruit, orange`
 
 -   MAYBE
+
+In moderation; High in sugar.
 
 Yes, cantaloupe is safe for dogs. Cantaloupe is packed with nutrients, low in calories, and a great source of water and fiber. It is, however, high in sugar, so should be shared in moderation, especially for dogs who are overweight or have diabetes.
 
@@ -208,11 +208,11 @@ Yes, dogs can eat carrots. Carrots are an excellent low-calorie snack that is hi
 
 # Cashews
 
-In moderation
-
 `nut, fruit, white`
 
 -   MAYBE
+
+In moderation.
 
 You should limit your dog’s intake of cashews. Plain, unsalted and roasted cashews are safe for most dogs to eat in moderation. However, cashews are high in fat and calories and may lead to weight gain and pancreatitis when consumed in excess (4, 11Trusted Source). For these reasons, you should limit your dog’s intake to one or two cashews a day or less.
 
@@ -245,11 +245,11 @@ The answer overall is yes, dogs can eat some cereal, but much like for us humans
 
 # Cheese
 
-In moderation
-
 `dairy, milk, yellow, white`
 
 -   MAYBE
+
+In moderation.
 
 Cheese is safe for most dogs to eat in small quantities. Due to the fat and lactose content of cheese, some dogs may have digestive symptoms, such as stomach pain and diarrhea, after eating it. To avoid unpleasant symptoms, it is best to introduce cheese into your dog’s diet gradually. It may also help to only feed your dog low-fat cheeses, such as mozzarella.
 
@@ -281,11 +281,11 @@ In 2016, there were more than 250 cases of xylitol poisoning in the UK reported 
 
 # Chicken
 
-Minimal Seasoning
-
 `meat, poultry, white`
 
 -   OK
+
+Minimal Seasoning.
 
 Plain, boiled chicken with no seasoning is a good option when a dog has an upset stomach.
 
@@ -296,11 +296,11 @@ Plain, boiled chicken with no seasoning is a good option when a dog has an upset
 
 # Chickpeas
 
-Not Hummus
-
 `lentil, nut, fruit, legume, pea, brown`
 
 -   MAYBE
+
+Not Hummus.
 
 Chickpeas can make gassy pets worse (sorry, bulldogs—we’re calling you out!) and lead to abdominal cramps and bloating. Introduce these legumes slowly and watch for gastrointestinal issues. Avoid processed chickpeas, such as those turned into hummus, which are full of spices and seasonings that, while delicious to you, can harm your dog. Stick with bland, cooked chickpeas, and skip the seasonings.
 
@@ -330,7 +330,8 @@ Although not toxic, large amounts of cinnamon can cause vomiting, diarrhea, and 
 
 # Citrus Fruits
 
-Oranges, Lemons, ect.
+Oranges, Lemons, ec.
+t.
 
 `fruit, citrus, orange, lemon, lime, mandarine, sour`
 
@@ -345,7 +346,8 @@ Citrus plants and their fruits, such as oranges and lemons, contain citric acid.
 
 # Coconut products
 
-Water, milk, ect.
+Water, milk, ec.
+t.
 
 `fruit, brown, white, drink`
 
@@ -357,11 +359,11 @@ Dogs should not drink coconut water, due to its high levels of potassium. A pers
 
 # Coffee / Tea
 
-Anything with Caffeine
-
 `caffeine, drink, brown, tea`
 
 -   BAD
+
+Anything with Caffeine.
 
 Never give chocolate, coffee, or anything containing caffeine to dogs. These products contain chemicals called methylxanthines, which are highly toxic to dogs. The chemicals can cause vomiting, an abnormal heart rate, seizures, and sometimes death. Chocolate treats are available for dogs, but these contain a special chocolate substitute that is safe for them to eat.
 
@@ -370,11 +372,11 @@ Never give chocolate, coffee, or anything containing caffeine to dogs. These pro
 
 # Corn
 
-In moderation; Not cob
-
 `veggie, vegetable, yellow`
 
 -   MAYBE
+
+In moderation; Not cob.
 
 Dogs can eat corn in moderate amounts. Corn is a good source of some vitamins and minerals and common ingredient in many types of dog food. A tablespoon or two of corn per day is an appropriate serving size for dogs. Although plain, cooked corn kernels are safe for dogs, you should never feed your dog corn on the cob. The cob is a choking hazard and could lead to intestinal obstruction if consumed.
 
@@ -382,11 +384,11 @@ Dogs can eat corn in moderate amounts. Corn is a good source of some vitamins an
 
 # Corn Cob
 
-Inside part
-
 `veggie, vegetable, yellow`
 
 -   BAD
+
+Inside part.
 
 Unlike most vegetables, corn on the cobs don’t digest in a dog’s stomach. That means they are likely to cause a blockage, and possible perforation, if they’re left to make their way through the intestines.
 
@@ -394,11 +396,11 @@ Unlike most vegetables, corn on the cobs don’t digest in a dog’s stomach. Th
 
 # Cranberries
 
-Small quantities
-
 `fruit, berry, berries, red`
 
 -   MAYBE
+
+Small quantities.
 
 Yes, cranberries are safe for dogs to eat. Both cranberries and dried cranberries are safe to feed to dogs in small quantities. Whether your dog will like this tart treat is another question. Either way, moderation is important when feeding cranberries to dogs, as with any treat, as too many cranberries can lead to an upset stomach.
 
@@ -442,11 +444,11 @@ Dairy products, such as milk, cheese, and plain yogurt, are safe for dogs to hav
 
 # Eggs
 
-Cooked
-
 `poultry, yolk, white, yellow`
 
 -   OK
+
+Cooked.
 
 Cooked eggs are perfectly safe and nutritious for dogs to eat. One medium egg provides some of almost every vitamin and mineral, plus lots of protein. There are claims that eggs may also help relieve nausea in dogs, although there is no scientific evidence behind this claim. It is important to note that you should avoid feeding raw eggs to your dog. While dogs typically do not get sick from eating raw eggs, bacteria, such as Salmonella, can spread from the dog to its human owners, increasing their risk of infection.
 
@@ -466,11 +468,11 @@ Falafel is usually made with soaked raw chickpeas or chickpea flour. While neith
 
 # Fish
 
-And other seafood
-
 `seafood, salmon, tuna, shrimp, prawn, cod, ocean, meat, shellfish, shell, white, red`
 
 -   OK
+
+And other seafood.
 
 Salmon, shrimp, and tuna are all safe for dogs to eat and good sources of protein. Salmon and tuna are rich sources of omega-3 fatty acids, which can help keep a dog’s immune system, coat, and skin healthy. The B vitamins in shrimp can also help maintain a dog’s digestive system and promote healthy blood circulation. It is important to cook fish before feeding it to a dog, as uncooked fish can contain harmful parasites.
 
@@ -516,11 +518,11 @@ Yes, dogs can eat green beans. Chopped, steamed, raw, or canned – all types of
 
 # Honey
 
-In moderation
-
 `bee, syrup, nectar, yellow`
 
 -   MAYBE
+
+In moderation.
 
 You should only feed honey to your dog in limited amounts. Honey has a high sugar content, which can add up in calories and contribute to weight gain if your dog eats too much. If you want to feed your dog honey as a treat every once in awhile, it is best to provide him with only a very small amount.
 
@@ -581,11 +583,11 @@ Yes, dogs can eat mangoes. This sweet summer treat is packed with four different
 
 # Meat
 
-Cooked, Without bones
-
 `brown`
 
 -   OK
+
+Cooked, Without bones.
 
 Most dogs are fine eating lean cuts of meat that have been cooked well. Take off all visible fat -- including the skin on poultry. Be sure that there are no bones in the meat before you give it to your dog.
 
@@ -595,11 +597,11 @@ Most dogs are fine eating lean cuts of meat that have been cooked well. Take off
 
 # Mouldy food / Compost
 
-Spoiled / off food
-
 `spoiled, off, stink, rubbish`
 
 -   BAD
+
+Spoiled / off food.
 
 If pets are unlucky and consume certain kinds of fungi or mould present on old food, compost and organic waste, it can lead to the ingestion of dangerous neurotoxins and ultimately a life-threatening condition called mycotoxicity.
 
@@ -647,11 +649,11 @@ Nutmeg is not safe for dogs to eat. This is because nutmeg contains myristicin, 
 
 # Nuts
 
-Most nuts
-
 `nut, brown, fruit, macadamia`
 
 -   BAD
+
+Most nuts.
 
 Avoid giving nuts to dogs. Macadamia nuts are poisonous to dogs and can cause muscle weakness, vomiting, lethargy, and hyperthermia. Other types of nuts can cause dogs to choke.
 
@@ -683,11 +685,11 @@ No, dogs should never eat onions. Onions, leeks, and chives are part of a family
 
 # Oyster
 
-Cooked, Unspiced
-
 `seafood, shellfish, shell, meat, fish`
 
 -   MAYBE
+
+Cooked, Unspiced.
 
 Oysters should be cooked, and the shells removed, before consumption. Canned oysters should always be packed in water, not oils or spices.
 
@@ -774,11 +776,11 @@ Unsalted peanut butter with no added sugar or sweeteners is safe for dogs to eat
 
 # Pear
 
-Without seeds
-
 `fruit, green`
 
 -   MAYBE
+
+Without seeds.
 
 Yes, dogs can eat pears. Pears are a great snack because they’re high in copper, vitamins C and K, and fiber. It’s been suggested that eating the fruit can reduce the risk of having a stroke by 50 percent. Just be sure to cut pears into bite-size chunks and remove the pit and seeds first, as the seeds contain traces of cyanide. Skip canned pears with sugary syrups.
 
@@ -828,11 +830,11 @@ Eaten in large quantities pistachios can cause gastrointestinal distress, obesit
 
 # Popcorn
 
-No unpopped kernals
-
 `corn, pop, white`
 
 -   OK
+
+No unpopped kernals.
 
 Plain popcorn, without salt, butter, or sugar, can be a nutritional treat for dogs. Popcorn contains minerals such as magnesium, phosphorus, and zinc, which are all important for keeping dogs healthy. Make sure dogs do not eat any unpopped popcorn kernels, as this could cause them to choke
 
@@ -843,11 +845,11 @@ Plain popcorn, without salt, butter, or sugar, can be a nutritional treat for do
 
 # Pork
 
-Not bacon or ham
-
 `meat, pig, pink`
 
 -   MAYBE
+
+Not bacon or ham.
 
 Unseasoned, cooked pork is safe for dogs to eat. However, they should only consume small portions of pork, as the high fat content is hard for dogs to digest, and it can cause inflammation and pancreatitis. Refrain from feeding dogs bacon or processed ham, due to the high salt contents.
 
@@ -858,11 +860,11 @@ Unseasoned, cooked pork is safe for dogs to eat. However, they should only consu
 
 # Potato
 
-Cooked
-
 `veggie, vegetable, white`
 
 -   OK
+
+Cooked.
 
 Dogs can eat plain potatoes that have been cooked. However, you should never feed your dog raw potatoes. Raw potatoes contain solanine, a compound that is toxic to dogs. Cooking potatoes reduces their solanine levels. Potatoes should only be fed to dogs in small amounts, as their high carbohydrate content may cause dogs to gain weight if they eat them in large quantities.
 
@@ -870,11 +872,11 @@ Dogs can eat plain potatoes that have been cooked. However, you should never fee
 
 # Pumpkin
 
-No skin or stem
-
 `fruit, veggie, vegetable, punkin, pumkin, orange`
 
 -   OK
+
+No skin or stem.
 
 Pumpkins and pumpkin seeds are healthy foods for humans, and they also have several known health benefits for dogs. Dogs can safely eat pumpkin seeds as well as cooked or raw pumpkin. It is always best to check with your veterinarian to determine a healthy percentage of pumpkin as an addition to your dog’s diet.
 
@@ -902,11 +904,11 @@ Quinoa is an extremely healthy food for humans. It’s packed with protein, calc
 
 # Raspberries
 
-In moderation
-
 `fruit, berry, berries, red`
 
 -   MAYBE
+
+In moderation.
 
 Yes, dogs can eat raspberries. Raspberries are fine in moderation. They contain antioxidants that are great for dogs. They’re low in sugar and calories, but high in fiber, manganese, and vitamin C. Raspberries are especially good for senior dogs because they have anti-inflammatory properties, which can help aging joints. However, they do contain small amounts of xylitol, so limit your dog to less than a cup of raspberries at a time.
 
@@ -926,11 +928,11 @@ Eating raw eggs can lead to biotin deficiency in dogs, which may affect the heal
 
 # Raw meat
 
-Or Undercooked
-
 `meat, undercooked, red, brown`
 
 -   BAD
+
+Or Undercooked.
 
 Raw meat can contain Escherichia coli and Salmonella, which are types of bacteria that can cause food poisoning in dogs and humans. Cooking the meat properly kills the bacteria. In recent years, certain manufacturers have promoted the benefits of raw meat for dogs, and some boutique products contain it. It is important to understand that raw meat diets pose health risks to dogs and may not provide a complete nutritional balance.
 
@@ -938,11 +940,11 @@ Raw meat can contain Escherichia coli and Salmonella, which are types of bacteri
 
 # Rice (White or Brown)
 
-Cooked
-
 `rice, grain, white, brown`
 
 -   MAYBE
+
+Cooked.
 
 Cooked, plain white rice can be a good option for a dog with an upset stomach, as it is easy to digest and helps bind stool. White rice can cause blood sugar levels to rise, however, so dogs with diabetes should only eat it in small amounts.
 
@@ -963,11 +965,11 @@ Unlike some herbs which can cause digestive upset in large doses, sage is recogn
 
 # Salty foods
 
-In moderation
-
 `salt`
 
 -   MAYBE
+
+In moderation.
 
 Too much salt can cause excessive thirst and urination in dogs, as well as sodium ion poisoning.
 
@@ -976,11 +978,11 @@ Too much salt can cause excessive thirst and urination in dogs, as well as sodiu
 
 # Sausage
 
-Or processed meats
-
 `meat, brown`
 
 -   MAYBE
+
+Or processed meats.
 
 You should avoid sausages, sausage meat and cooked manufactured meats as they can also contain sulphite preservatives.
 
@@ -1000,7 +1002,8 @@ Seaweed is particularly nutritious as it contains protein and is rich in iron, i
 
 # Soft drink
 
-Soda, pop, ect.
+Soda, pop, ec.
+t.
 
 `sweet, drink, soda, pop, sugar`
 
@@ -1022,11 +1025,11 @@ Yes, dogs can eat spinach, but it’s not one of the top vegetables you’ll wan
 
 # Strawberries
 
-In moderation
-
 `fruit, berry, berries, red`
 
 -   MAYBE
+
+In moderation.
 
 Yes, dogs can eat strawberries. Strawberries are full of fiber and vitamin C. Along with that, they also contain an enzyme that can help whiten your dog’s teeth as he or she eats them. They contain sugar, so be sure to give them in moderation.
 
@@ -1045,7 +1048,7 @@ Sweet potatoes are a safe and healthy food for dogs to eat in moderate amounts. 
 
 # Tea tree oil
 
--   BAD
+-   BAD.
 
 Although products containing low concentrations of tea tree oil are not expected to be a problem in pets, the use of pure tea tree oil directly on the skin is potentially very serious in pets and should never be used. Exposure may cause ataxia, salivation, lethargy, coma and tremor.
 
@@ -1064,11 +1067,11 @@ No, dogs should avoid tomatoes. While the ripened fruit of the tomato plant is g
 
 # Turkey
 
-Unseasoned; Without fat
-
 `meat, white`
 
 -   MAYBE
+
+Unseasoned; Without fat.
 
 Cooked turkey is safe for dogs to eat, but it should be plain and unseasoned. Many commercial dog foods contain turkey, as it is a good source of protein. Before giving cooked turkey to a dog, remove the fat first. Too much fat can cause pancreas issues in dogs.
 
@@ -1079,11 +1082,11 @@ Cooked turkey is safe for dogs to eat, but it should be plain and unseasoned. Ma
 
 # Vegemite
 
-Marmite, promite, ect
-
 `yeast, spread, salt, marmite, promite, black`
 
 -   BAD
+
+Marmite, promite, ect.
 
 If you want a short answer, then no, it is not safe for dogs to eat Vegemite or Marmite. While neither Vegemite nor Marmite are toxic to dogs like grapes, chocolate or onions, these yeast spreads do contain high amounts of sodium.
 
@@ -1112,11 +1115,11 @@ Yes, dogs can eat watermelon. It’s important to remove the rind and seeds firs
 
 # Xylitol
 
-Sweetener
-
 `sugar, sweet, white`
 
 -   BAD
+
+Sweetener.
 
 Xylitol is a sugar substitute that manufacturers add to a variety of human foods. However, xylitol is highly toxic to dogs. It can cause liver failure and dangerously low blood sugar levels.
 
