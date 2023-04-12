@@ -36,6 +36,7 @@ impl TryFrom<&str> for Verdict {
 #[derive(Serialize)]
 pub struct Entry {
     pub name: String,
+    pub subtitle: Option<String>,
     pub tags: Vec<String>,
     pub verdict: Verdict,
     pub description: String,
@@ -46,6 +47,7 @@ pub struct Entry {
 #[derive(Default)]
 struct EntryBuild<'a> {
     pub name: Option<&'a str>,
+    pub subtitle: Option<&'a str>,
     pub tags: Vec<&'a str>,
     pub verdict: Option<Verdict>,
     pub description: Vec<&'a str>,
@@ -63,6 +65,7 @@ pub fn get_entries() -> Vec<Entry> {
         () => {
             entries.push(Entry {
                 name: entry_build.name.expect("No name given!").to_string(),
+                subtitle: entry_build.subtitle.map(|x| x.to_string()),
                 tags: entry_build.tags.iter().map(|x| x.to_string()).collect(),
                 verdict: entry_build
                     .verdict
@@ -91,6 +94,13 @@ pub fn get_entries() -> Vec<Entry> {
                 first_heading_occurred = true;
                 entry_build = EntryBuild::default();
                 entry_build.name = Some(rest);
+            }
+
+            "##" => {
+                if entry_build.subtitle.is_some() {
+                    panic!("Subtitle already given!");
+                }
+                entry_build.subtitle = Some(rest);
             }
 
             "`" => {

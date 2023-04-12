@@ -11,7 +11,7 @@ pub fn register_helpers(registry: &mut Handlebars) {
                         out: &mut dyn Output|
           -> HelperResult {
         let Some(param) = helper.param(0) else {
-            return Err(RenderError::new("`id` helper: No param given"))
+            return Err(RenderError::new("`id` helper: Param not given"))
         };
 
         out.write(&text_as_id(&param.render()))?;
@@ -19,6 +19,36 @@ pub fn register_helpers(registry: &mut Handlebars) {
         Ok(())
     };
     registry.register_helper("id", Box::new(closure));
+
+    let closure = move |helper: &Helper,
+                        _: &Handlebars,
+                        _: &Context,
+                        _: &mut RenderContext,
+                        out: &mut dyn Output|
+          -> HelperResult {
+        let Some(a) = helper.param(0) else {
+            return Err(RenderError::new("`arrays-intersect` helper: First param not given"))
+        };
+        let Some(a) = a.value().as_array() else {
+            return Err(RenderError::new("`arrays-intersect` helper: First param must be of type `array`"))
+        };
+
+        let Some(b) = helper.param(1) else {
+            return Err(RenderError::new("`arrays-intersect` helper: Second param not given"))
+        };
+        let Some(b) = b.value().as_array() else {
+            return Err(RenderError::new("`arrays-intersect` helper: Second param must be of type `array`"))
+        };
+
+        for i in a {
+            if a != b && b.contains(i) {
+                out.write("true")?;
+            }
+        }
+
+        Ok(())
+    };
+    registry.register_helper("arrays-intersect", Box::new(closure));
 }
 
 /// Convert text into HTML #id attribute format, with limited character set
