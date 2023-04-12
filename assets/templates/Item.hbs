@@ -23,7 +23,9 @@
         <ul>
             {{#each sources}}
             <li>
-                <a href="{{this}}">{{this}}</a>
+                <a href="{{this}}">
+                    {{(url-domain this)}}
+                </a>
             </li>
             {{/each}}
         </ul>

@@ -1,4 +1,4 @@
-use regex::Regex;
+use regex_macro::regex;
 use serde::Serialize;
 
 pub enum Verdict {
@@ -114,7 +114,7 @@ pub fn get_entries() -> Vec<Entry> {
                 entry_build.verdict = rest.try_into().ok();
             }
 
-            _ if Regex::new(r"^\d+\.$").unwrap().is_match(token) => {
+            _ if regex!(r"^\d+\.$").is_match(token) => {
                 entry_build.sources.push(rest);
             }
 
