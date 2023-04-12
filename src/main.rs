@@ -19,7 +19,7 @@ fn main() -> Result<(), Error> {
 
     app
         // Index page
-        .index("~", object! { entries })?
+        .index("homepage", object! { entries })?
         // 404 page
         .not_found("404", object! {})?
         // Complete app
