@@ -108,7 +108,7 @@ Yes, dogs can eat blueberries. Blueberries are a superfood rich in antioxidants,
 
 # Bones
 
-## Raw only. Not chicken.
+## Raw only; Not chicken.
 
 `meat, bone`
 
@@ -281,8 +281,6 @@ In 2016, there were more than 250 cases of xylitol poisoning in the UK reported 
 
 # Chicken
 
-## Minimal Seasoning.
-
 `meat, poultry`
 
 -   OK
@@ -296,7 +294,7 @@ Plain, boiled chicken with no seasoning is a good option when a dog has an upset
 
 # Chickpeas
 
-## Not Hummus.
+## Not hummus.
 
 `nut, chickpea, legume`
 
@@ -381,8 +379,6 @@ Dogs can eat corn in moderate amounts. Corn is a good source of some vitamins an
 1. https://www.healthline.com/nutrition/human-foods-for-dogs
 
 # Corn Cob
-
-## Inside part.
 
 `vegetable`
 
@@ -581,7 +577,7 @@ Yes, dogs can eat mangoes. This sweet summer treat is packed with four different
 
 # Meat
 
-## Cooked, Without bones.
+## Cooked; Without bones.
 
 `meat`
 
@@ -915,7 +911,7 @@ Eating raw eggs can lead to biotin deficiency in dogs, which may affect the heal
 
 # Raw meat
 
-## Or Undercooked.
+## Or undercooked.
 
 `meat`
 
@@ -963,9 +959,9 @@ Too much salt can cause excessive thirst and urination in dogs, as well as sodiu
 1. https://www.medicalnewstoday.com/articles/324453
 2. https://www.healthline.com/nutrition/human-foods-for-dogs
 
-# Sausage
+# Sausage / Processed meats
 
-## Or processed meats.
+## A small amount.
 
 `meat`
 
@@ -1101,7 +1097,7 @@ Yes, dogs can eat watermelon. It’s important to remove the rind and seeds firs
 
 # Xylitol
 
-## Sweetener.
+## Artificial sweetener.
 
 `sweet`
 
