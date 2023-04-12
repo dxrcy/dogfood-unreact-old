@@ -1,14 +1,3 @@
-# Alcohol or Medicine
-
-`drink, drugs`
-
--   BAD
-
-Never give a dog alcohol or products containing it. Alcohol is very dangerous for dogs and can lead to a range of serious complications, including coma and death.
-
-1. https://www.medicalnewstoday.com/articles/324453
-2. https://www.healthline.com/nutrition/human-foods-for-dogs
-
 # Almonds
 
 ## In moderation.
