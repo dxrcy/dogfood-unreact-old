@@ -9,17 +9,20 @@
 It is best to limit almonds in your dog’s diet. Although plain, unsalted almonds are generally safe for dogs to eat in small amounts, they are difficult for dogs to digest and may lead to vomiting and diarrhea. Almonds are also high in fat and calories and have the potential to cause weight gain and pancreatitis in dogs. If you feed your dog almonds, it is best to give very small servings.
 
 1. https://www.healthline.com/nutrition/human-foods-for-dogs
+2. https://www.petmd.com/dogs/can-dogs-eat-almonds
+3. https://www.akc.org/expert-advice/nutrition/can-dogs-eat-almonds/
 
 # Apple
 
 `fruit`
 
--   OK
+-   MAYBE
 
 Yes, dogs can eat apples. Apples are an excellent source of vitamins A and C, as well as fiber for your dog. They are low in protein and fat, making them the perfect snack for senior dogs. Just be sure to remove the seeds and core first. Try them frozen for an icy warm weather snack. You can also find it as an ingredient in apple-flavored dog treats.
 
-1. https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/
 2. https://www.healthline.com/nutrition/human-foods-for-dogs
+3. https://www.veterinarians.org/can-dogs-eat-apples/
+4. https://www.walkervillevet.com.au/blog/are-apple-cores-poisonous-to-dogs/
 
 > Does not care for apple
 
@@ -27,11 +30,13 @@ Yes, dogs can eat apples. Apples are an excellent source of vitamins A and C, as
 
 `vegetable`
 
--   BAD
+-   MAYBE
 
-No, dogs should not eat asparagus. While asparagus isn’t necessarily unsafe for dogs, there’s really no point in giving it to them. It’s too tough to be eaten raw, and by the time you cook it down so it’s soft enough for dogs to eat, asparagus loses the nutrients it contains. If you really want to share a veggie, something more beneficial is probably best.
+No, dogs should not eat asparagus. While asparagus isn’t necessarily unsafe for dogs, there’s really no point in giving it to them. It’s too tough to be eaten raw, and by the time you cook it down so it’s soft enough for dogs to eat, asparagus loses the nutrients it contains. If you really want to share a veggie, something more beneficial is probably best. Asparagus is non-toxic, but in large amounts, it could cause your dog some digestive upset and gas (pee-ew!). So start slowly if your dog’s not used to it, or you could be in for some smelly nights!
 
 1. https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/
+2. https://www.dogsnaturallymagazine.com/can-dogs-eat-asparagus/
+3. https://www.innovetpet.com/blogs/appetite-nutrition/can-dogs-eat-asparagus
 
 # Avocado
 
@@ -57,8 +62,6 @@ Yes, dogs can eat bananas. In moderation, bananas are a great low-calorie treat 
 2. https://www.medicalnewstoday.com/articles/324453
 3. https://www.healthline.com/nutrition/human-foods-for-dogs
 
-> Does not like apple
-
 # Beef
 
 `meat, beef`
@@ -68,8 +71,10 @@ Yes, dogs can eat bananas. In moderation, bananas are a great low-calorie treat 
 Lean beef is safe for dogs to eat. In fact, beef is a common ingredient in many dog foods. It’s an excellent source of protein and many important vitamins and minerals that your dog needs for overall health. The beef that you feed to your dog should be plain, without any added sauces or seasonings. These often contain ingredients that may be harmful to your dog, such as salt.
 
 1. https://www.healthline.com/nutrition/human-foods-for-dogs
+2. https://www.dailypaws.com/dogs-puppies/dog-nutrition/what-can-dogs-eat/can-dogs-eat-beef
+3. https://www.petmoo.com/dogs/can-dogs-eat-beef/
 
-> Loves beef
+> Loves beef of course
 
 # Blackberries
 
@@ -80,6 +85,10 @@ Lean beef is safe for dogs to eat. In fact, beef is a common ingredient in many 
 You can safely feed your dog blackberries. Fresh or frozen blackberries are a healthy treat for dogs. They are low in calories and rich in vitamins, minerals and antioxidants. Additionally, blackberries are a great source of fiber. If your dog enjoys blackberries, you can feed him a few each day as a treat.
 
 1. https://www.healthline.com/nutrition/human-foods-for-dogs
+2. https://www.petmd.com/dog/nutrition/can-dogs-eat-blackberries
+3. https://www.thesprucepets.com/can-dogs-eat-blackberries-5093738
+
+> Does not care for blackberries
 
 # Blueberries
 
@@ -106,8 +115,10 @@ Yes, dogs can eat blueberries. Blueberries are a superfood rich in antioxidants,
 Bones are a good source of minerals and other nutrients and help satisfy your dog's appetite. ... Don't give you dog cooked bones of any kind. Don't let your dog chew any kind of bone into small pieces. Don't give your dog chunks of bone that can cause blockages. Do not feed dogs chicken bones, weather cooked or raw, as they are weak and can splinter in your dog's mouth.
 
 1. https://www.akc.org/expert-advice/nutrition/exercise-caution-when-giving-your-dog-a-bone/
+2. https://kb.rspca.org.au/knowledge-base/should-i-feed-bones-to-my-dog/
+3. https://www.greencrossvets.com.au/are-bones-safe-for-my-dog/
 
-> Loves a good bone that has been chewed on for a few days. Will growl if any dogs approach while eating
+> Loves a good bone that has been chewed on for a few days
 
 # Bread
 
@@ -117,13 +128,15 @@ Bones are a good source of minerals and other nutrients and help satisfy your do
 
 -   OK
 
-Plain white or whole grain bread is safe for most dogs to eat as an occasional treat. Before feeding your dog bread, make sure it doesn’t contain any extra ingredients, such as raisins, which could be potentially harmful. Additionally, keep in mind that bread, along with other foods, adds extra calories to your dog’s diet and may cause weight gain if he eats too much.
+Plain white or whole grain bread is safe for most dogs to eat as an occasional treat. Before feeding your dog bread, make sure it doesn’t contain any extra ingredients, such as raisins, which could be potentially harmful. Additionally, keep in mind that bread, along with other foods, adds extra calories to your dog’s diet and may cause weight gain if he eats too much. While a slice of bread is fine, yeast-based bread dough is dangerous for dogs and can cause bread dough toxicosis.
 
 1. https://www.healthline.com/nutrition/human-foods-for-dogs
+2. https://www.akc.org/expert-advice/nutrition/can-dogs-eat-bread/
+3. https://www.petmd.com/dog/nutrition/can-dogs-eat-bread
 
 > Loves bread, but not so much the crust.
 
-# Bread dough
+# Bread dough / Yeast
 
 ## Raw or undercooked.
 
@@ -135,10 +148,11 @@ While bread is generally safe for dogs, the dough can be very dangerous. The yea
 
 1. https://www.medicalnewstoday.com/articles/324453
 2. https://www.healthline.com/nutrition/human-foods-for-dogs
+3. https://www.petmd.com/dog/nutrition/can-dogs-eat-bread
 
 # Broccoli
 
-## Be careful.
+## In moderation; Be careful.
 
 `vegetable`
 
@@ -148,6 +162,7 @@ Yes, broccoli is safe for dogs to eat in very small quantities and is best serve
 
 1. https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/
 2. https://www.healthline.com/nutrition/human-foods-for-dogs
+3. https://www.petmd.com/dog/nutrition/can-dogs-eat-broccoli
 
 # Brussel Sprouts, Cabbage
 
@@ -158,6 +173,8 @@ Yes, broccoli is safe for dogs to eat in very small quantities and is best serve
 Yes, dogs can eat Brussels sprouts. Brussels sprouts are loaded with nutrients and antioxidants that are great for humans and dogs, alike. Don’t overfeed them to your dog, however, because they can cause lots of gas. Cabbage is also safe for dogs, but comes with the same gassy warning!
 
 1. https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/
+2. https://www.m-dog.org/can-dogs-eat-brussel-sprouts/
+3. https://www.thesprucepets.com/can-dogs-eat-cabbage-4846837
 
 # Cantaloupe
 
@@ -171,6 +188,7 @@ Yes, cantaloupe is safe for dogs. Cantaloupe is packed with nutrients, low in ca
 
 1. https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/
 2. https://www.medicalnewstoday.com/articles/324453
+3. https://www.petmd.com/dog/nutrition/can-dogs-eat-cantaloupe
 
 # Capsicum / Pepper
 
@@ -181,6 +199,8 @@ Yes, cantaloupe is safe for dogs. Cantaloupe is packed with nutrients, low in ca
 For pet owners, it can be difficult to keep track of which foods are harmful to dogs. For example, can dogs eat bell peppers? In this instance, the answer is yes. Bell peppers pack a punch when it comes to nutritional value for both you and your furry friend. “They’re not toxic, and they are a healthy alternative snack to share with your dog,” says Dr. Carly Fox, a staff doctor at New York City’s Animal Medical Center.
 
 1. https://www.akc.org/expert-advice/nutrition/can-dogs-eat-bell-peppers/
+2. https://www.thesprucepets.com/can-dogs-eat-peppers-4706946
+3. https://petpattern.com/blogs/dogs/can-dogs-eat-peppers
 
 # Carrots
 
@@ -192,6 +212,7 @@ Yes, dogs can eat carrots. Carrots are an excellent low-calorie snack that is hi
 
 1. https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/
 2. https://www.healthline.com/nutrition/human-foods-for-dogs
+3. https://www.dogsnaturallymagazine.com/can-dogs-eat-carrots/
 
 > Likes carrots occasionally
 
@@ -206,6 +227,8 @@ Yes, dogs can eat carrots. Carrots are an excellent low-calorie snack that is hi
 You should limit your dog’s intake of cashews. Plain, unsalted and roasted cashews are safe for most dogs to eat in moderation. However, cashews are high in fat and calories and may lead to weight gain and pancreatitis when consumed in excess (4, 11Trusted Source). For these reasons, you should limit your dog’s intake to one or two cashews a day or less.
 
 1. https://www.healthline.com/nutrition/human-foods-for-dogs
+2. https://www.akc.org/expert-advice/nutrition/can-dogs-eat-cashews/
+3. https://expertanimal.com/can-dogs-eat-cashews/
 
 > Likes cashews
 
@@ -219,6 +242,7 @@ Yes, celery is safe for dogs to eat. In addition to vitamins A, B, and C, this c
 
 1. https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/
 2. https://www.healthline.com/nutrition/human-foods-for-dogs
+3. https://littlethings.com/pets/can-dogs-eat-celery
 
 # Cereal
 
@@ -226,9 +250,11 @@ Yes, celery is safe for dogs to eat. In addition to vitamins A, B, and C, this c
 
 -   MAYBE
 
-The answer overall is yes, dogs can eat some cereal, but much like for us humans, there are several types that are less healthy than others for dogs. There are even certain cereals that contain ingredients that are dangerous or toxic to your dog.
+The answer overall is yes, dogs can eat some cereal, but much like for us humans, there are several types that are less healthy than others for dogs. There are even certain cereals that contain ingredients that are dangerous or toxic to your dog. Cereals containing potentially toxic ingredients to dogs, such as chocolate, raisins, or nuts, are always a no-no.
 
 1. https://dogtime.com/dog-health/dog-food-dog-nutrition/78905-can-dogs-eat-cereal
+2. https://www.thesprucepets.com/can-dogs-eat-cereal-4707830
+3. https://www.rover.com/blog/can-dog-eat-cereal/
 
 > Likes cereal
 
@@ -243,6 +269,8 @@ The answer overall is yes, dogs can eat some cereal, but much like for us humans
 Cheese is safe for most dogs to eat in small quantities. Due to the fat and lactose content of cheese, some dogs may have digestive symptoms, such as stomach pain and diarrhea, after eating it. To avoid unpleasant symptoms, it is best to introduce cheese into your dog’s diet gradually. It may also help to only feed your dog low-fat cheeses, such as mozzarella.
 
 1. https://www.healthline.com/nutrition/human-foods-for-dogs
+2. https://www.hillspet.com.au/dog-care/nutrition-feeding/can-dogs-eat-cheese
+3. https://www.akc.org/expert-advice/nutrition/can-dogs-eat-cheese/
 
 > Loves cheese
 
@@ -267,6 +295,8 @@ No, dogs should not eat cherries. With the exception of the fleshy part around t
 In 2016, there were more than 250 cases of xylitol poisoning in the UK reported to the Veterinary Poisons Information Service – and most of these were down to dogs getting their paws on chewing gum. At least one of these pets sadly died. There will have been many more cases of xylitol poisoning in the UK that went unreported.
 
 1. https://www.bluecross.org.uk/pet-advice/xylitol-poisoning-dogs
+2. https://www.akc.org/expert-advice/health/dog-accidentally-eats-gum-can-gum-make-my-dog-sick/
+3. https://pethelpful.com/dogs/Health-risks-of-dogs-ingesting-sugar-free-gum
 
 # Chicken
 
@@ -278,6 +308,7 @@ Plain, boiled chicken with no seasoning is a good option when a dog has an upset
 
 1. https://www.medicalnewstoday.com/articles/324453
 2. https://www.healthline.com/nutrition/human-foods-for-dogs
+3. https://www.akc.org/expert-advice/nutrition/can-dogs-eat-chicken/
 
 > Loves chicken
 
@@ -292,6 +323,8 @@ Plain, boiled chicken with no seasoning is a good option when a dog has an upset
 Chickpeas can make gassy pets worse (sorry, bulldogs—we’re calling you out!) and lead to abdominal cramps and bloating. Introduce these legumes slowly and watch for gastrointestinal issues. Avoid processed chickpeas, such as those turned into hummus, which are full of spices and seasonings that, while delicious to you, can harm your dog. Stick with bland, cooked chickpeas, and skip the seasonings.
 
 1. https://trupanion.com/pet-care/can-dogs-eat-chickpeas
+2. https://www.greatpetcare.com/dog-nutrition/can-dogs-eat-chickpeas/
+3. https://nashvillepaw.com/dogs-eat-chickpeas
 
 # Chocolate
 
@@ -303,6 +336,7 @@ Never give chocolate, coffee, or anything containing caffeine to dogs. These pro
 
 1. https://www.medicalnewstoday.com/articles/324453
 2. https://www.healthline.com/nutrition/human-foods-for-dogs
+3. https://www.petmd.com/dog/nutrition/4-types-chocolate-and-how-they-impact-dogs
 
 # Cinnamon
 
@@ -314,6 +348,7 @@ Although not toxic, large amounts of cinnamon can cause vomiting, diarrhea, and 
 
 1. https://www.medicalnewstoday.com/articles/324453
 2. https://www.healthline.com/nutrition/human-foods-for-dogs
+3. https://www.akc.org/expert-advice/nutrition/can-dogs-eat-cinnamon/
 
 # Citrus Fruits
 
@@ -326,7 +361,8 @@ Although not toxic, large amounts of cinnamon can cause vomiting, diarrhea, and 
 Citrus plants and their fruits, such as oranges and lemons, contain citric acid. While eating small amounts of the peeled fruit is okay for some dogs, it can cause an upset stomach. In larger quantities, citric acid can lead to nervous system depression. Some veterinarians may say that oranges are safe, however it is best just to be cautious.
 
 1. https://www.medicalnewstoday.com/articles/324453
-2. https://www.healthline.com/nutrition/human-foods-for-dogs
+2. https://www.akc.org/expert-advice/nutrition/can-dogs-eat-lemons/
+3. https://www.akc.org/expert-advice/nutrition/can-dogs-eat-oranges/
 
 > Does not care for oranges
 
@@ -341,6 +377,8 @@ Citrus plants and their fruits, such as oranges and lemons, contain citric acid.
 Dogs should not drink coconut water, due to its high levels of potassium. A person should also limit how much coconut oil or flesh they give their dog, as these foods can cause upset stomach or diarrhea.
 
 1. https://www.medicalnewstoday.com/articles/324453
+2. https://www.masterclass.com/articles/can-dogs-have-coconut-milk
+3. https://pets.webmd.com/dogs/what-to-know-dogs-eat-coconut-oil
 
 # Coffee / Tea
 
@@ -354,6 +392,7 @@ Never give chocolate, coffee, or anything containing caffeine to dogs. These pro
 
 1. https://www.medicalnewstoday.com/articles/324453
 2. https://www.healthline.com/nutrition/human-foods-for-dogs
+3. https://www.akc.org/expert-advice/health/can-my-dog-drink-coffee-what-to-do-if-your-dog-drinks-coffee/
 
 # Corn
 
@@ -366,6 +405,8 @@ Never give chocolate, coffee, or anything containing caffeine to dogs. These pro
 Dogs can eat corn in moderate amounts. Corn is a good source of some vitamins and minerals and common ingredient in many types of dog food. A tablespoon or two of corn per day is an appropriate serving size for dogs. Although plain, cooked corn kernels are safe for dogs, you should never feed your dog corn on the cob. The cob is a choking hazard and could lead to intestinal obstruction if consumed.
 
 1. https://www.healthline.com/nutrition/human-foods-for-dogs
+2. https://thehappypuppysite.com/can-dogs-eat-corn/
+3. https://www.petmd.com/dog/nutrition/can-dogs-eat-corn
 
 # Corn Cob
 
@@ -376,6 +417,8 @@ Dogs can eat corn in moderate amounts. Corn is a good source of some vitamins an
 Unlike most vegetables, corn on the cobs don’t digest in a dog’s stomach. That means they are likely to cause a blockage, and possible perforation, if they’re left to make their way through the intestines.
 
 1. https://www.vets-now.com/2017/02/dogs-corn-on-the-cob-dangers/
+2. https://www.thesprucepets.com/feeding-dog-corn-on-the-cob-3385222
+3. https://dogdiscoveries.com/health/what-to-do-if-your-dog-ate-corn-cobs
 
 # Cranberries
 
@@ -564,6 +607,18 @@ Yes, dogs can eat mangoes. This sweet summer treat is packed with four different
 
 > Does not like mango
 
+# Marijuana
+
+`drug`
+
+-   BAD
+
+Dogs who consume marijuana may exhibit symptoms such as lethargy, delayed responses to verbal and visual cues, incoordination, incontinence, vomiting, diarrhea, and in severe cases death.
+
+1. https://www.akc.org/expert-advice/health/marijuana-poisoning-in-dogs/
+2. https://yourdogadvisor.com/foods-dogs-cant-eat/
+3. https://pets.webmd.com/dogs/thc-poisoning-dogs
+
 # Meat
 
 ## Cooked; Without bones.
@@ -630,13 +685,13 @@ Nutmeg is not safe for dogs to eat. This is because nutmeg contains myristicin, 
 
 # Nuts
 
-## Most nuts.
+## Most nuts are bad.
 
 `nut`
 
 -   BAD
 
-Avoid giving nuts to dogs. Macadamia nuts are poisonous to dogs and can cause muscle weakness, vomiting, lethargy, and hyperthermia. Other types of nuts can cause dogs to choke.
+Avoid giving nuts to dogs. Macadamia nuts are poisonous to dogs and can cause muscle weakness, vomiting, lethargy, and hyperthermia. Other types of nuts can cause dogs to choke. Dangerous nuts include: Macadamias, Pistachios, and Walnuts, with Almonds, Cashews, and Peanuts possibly being safe in small quantities (See individual entries).
 
 1. https://www.medicalnewstoday.com/articles/324453
 
@@ -652,7 +707,7 @@ Plain oatmeal is safe for your dog to eat. Oatmeal provides lots of fiber, as we
 
 > Loves plain oats. Will eat them out of ones hand
 
-# Onion, garlic, chives
+# Onion, garlic, chives, leeks
 
 `vegetable`
 
@@ -909,6 +964,18 @@ Eating raw eggs can lead to biotin deficiency in dogs, which may affect the heal
 Raw meat can contain Escherichia coli and Salmonella, which are types of bacteria that can cause food poisoning in dogs and humans. Cooking the meat properly kills the bacteria. In recent years, certain manufacturers have promoted the benefits of raw meat for dogs, and some boutique products contain it. It is important to understand that raw meat diets pose health risks to dogs and may not provide a complete nutritional balance.
 
 1. https://www.medicalnewstoday.com/articles/324453
+
+# Rhubarb
+
+`vegetable, fruit`
+
+-   BAD
+
+Is rhubarb poisonous to dogs? Yes, and some parts of the plant are even less safe than other parts. Every single part of the rhubarb plant contains soluble calcium oxalate crystals. These crystals contain poisonous crystalline acid. When dogs chew or swallow the crystals from this plant, they might experience pain and irritation.
+
+1. https://spoiledhounds.com/can-dogs-eat-rhubarb/
+2. https://www.purepetfood.com/help/can-dogs-eat-rhubarb
+3. https://thecanineexpert.com/is-rhubarb-poisonous-to-dogs/
 
 # Rice (White or Brown)
 

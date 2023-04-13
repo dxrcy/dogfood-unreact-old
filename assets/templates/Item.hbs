@@ -52,12 +52,14 @@
 
             <ul>
                 {{#each ../entries}}
+                {{#if (not-equal name ../name)}}
                 {{#if (arrays-intersect tags ../tags) }}
                 <li>
                     <a href="#{{id name}}">
                         {{name}}
                     </a>
                 </li>
+                {{/if}}
                 {{/if}}
                 {{/each}}
             </ul>

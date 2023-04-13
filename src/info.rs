@@ -63,13 +63,16 @@ pub fn get_entries() -> Vec<Entry> {
 
     macro_rules! push_entry {
         () => {
+            let name = entry_build.name.expect("No name given!").to_string();
+
             entries.push(Entry {
-                name: entry_build.name.expect("No name given!").to_string(),
                 subtitle: entry_build.subtitle.map(|x| x.to_string()),
                 tags: entry_build.tags.iter().map(|x| x.to_string()).collect(),
-                verdict: entry_build
-                    .verdict
-                    .expect("No verdict given, or is invalid!"),
+                verdict: entry_build.verdict.expect(&format!(
+                    "No verdict given, or is invalid! Entry titled '{}'",
+                    name
+                )),
+                name,
                 description: entry_build.description.join("\n"),
                 sources: entry_build.sources.iter().map(|x| x.to_string()).collect(),
                 review: entry_build.review.map(|x| x.to_string()),
@@ -98,7 +101,10 @@ pub fn get_entries() -> Vec<Entry> {
 
             "##" => {
                 if entry_build.subtitle.is_some() {
-                    panic!("Subtitle already given!");
+                    panic!(
+                        "Subtitle already given! Entry titled '{}'",
+                        entry_build.name.unwrap_or("[none]")
+                    );
                 }
                 entry_build.subtitle = Some(rest);
             }
@@ -109,7 +115,10 @@ pub fn get_entries() -> Vec<Entry> {
 
             "-" => {
                 if entry_build.verdict.is_some() {
-                    panic!("Verdict already given!");
+                    panic!(
+                        "Verdict already given!, Entry titled '{}'",
+                        entry_build.name.unwrap_or("[none]")
+                    );
                 }
                 entry_build.verdict = rest.try_into().ok();
             }
@@ -120,7 +129,10 @@ pub fn get_entries() -> Vec<Entry> {
 
             ">" => {
                 if entry_build.review.is_some() {
-                    panic!("Review already given!");
+                    panic!(
+                        "Review already given!, Entry titled '{}'",
+                        entry_build.name.unwrap_or("[none]")
+                    );
                 }
                 entry_build.review = Some(rest);
             }

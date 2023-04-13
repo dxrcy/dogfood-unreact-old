@@ -43,7 +43,7 @@ pub fn register_helpers(registry: &mut Handlebars) {
         };
 
         for i in a {
-            if a != b && b.contains(i) {
+            if b.contains(i) {
                 out.write("true")?;
             }
         }
@@ -75,6 +75,29 @@ pub fn register_helpers(registry: &mut Handlebars) {
         Ok(())
     };
     registry.register_helper("url-domain", Box::new(closure));
+
+    let closure = move |helper: &Helper,
+                        _: &Handlebars,
+                        _: &Context,
+                        _: &mut RenderContext,
+                        out: &mut dyn Output|
+          -> HelperResult {
+        let Some(a) = helper.param(0) else {
+            return Err(RenderError::new("`not-equal` helper: First param not given"));
+        };
+        let a = a.value();
+        let Some(b) = helper.param(1) else {
+            return Err(RenderError::new("`not-equal` helper: Second param not given"));
+        };
+        let b = b.value();
+
+        if a != b {
+            out.write("true")?;
+        }
+
+        Ok(())
+    };
+    registry.register_helper("not-equal", Box::new(closure));
 }
 
 /// Convert text into HTML #id attribute format, with limited character set
