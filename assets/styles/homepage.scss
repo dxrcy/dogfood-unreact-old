@@ -127,3 +127,14 @@ main {
         }
     }
 }
+
+.top-button {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+
+    button {
+        font-size: large;
+        cursor: pointer;
+    }
+}
