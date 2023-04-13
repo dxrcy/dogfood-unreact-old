@@ -111,7 +111,8 @@ pub fn text_as_id(text: &str) -> String {
                 '-'
             }
         })
-        .collect()
+        .collect::<String>()
+        .replace("--", "-")
 }
 
 #[cfg(test)]

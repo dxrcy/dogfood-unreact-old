@@ -431,6 +431,8 @@ Unlike most vegetables, corn on the cobs don’t digest in a dog’s stomach. Th
 Yes, cranberries are safe for dogs to eat. Both cranberries and dried cranberries are safe to feed to dogs in small quantities. Whether your dog will like this tart treat is another question. Either way, moderation is important when feeding cranberries to dogs, as with any treat, as too many cranberries can lead to an upset stomach.
 
 1. https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/
+2. https://www.petmd.com/dog/nutrition/can-dogs-eat-cranberries
+3. https://www.greatpetcare.com/dog-nutrition/can-dogs-eat-cranberries/
 
 # Crayfish, Lobster, Ect.
 
@@ -440,7 +442,9 @@ Yes, cranberries are safe for dogs to eat. Both cranberries and dried cranberrie
 
 In general, crawfish are safe for dogs to eat. But you still have to be careful and watch your dog. Some dogs can get sick from eating too many and other dogs might have sensitive stomachs that shouldn’t eat them at all.
 
-1. https://spoiledhounds.com/can-dogs-eat-crawfish/#:~:text=In%20general%2C%20crawfish%20are%20safe,t%20eat%20them%20at%20all.
+1. https://spoiledhounds.com/can-dogs-eat-crawfish
+2. https://www.hepper.com/can-dogs-eat-crawfish/
+3. https://petcube.com/blog/dogs-seafood/
 
 > Likes this food somewhat, although hesitant
 
@@ -454,6 +458,7 @@ Yes, dogs can eat cucumbers. Cucumbers are especially good for overweight dogs, 
 
 1. https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/
 2. https://www.medicalnewstoday.com/articles/324453
+3. https://www.petmd.com/dog/nutrition/can-dogs-eat-cucumbers
 
 > Likes the soft flesh of cucumbers a little
 
@@ -467,6 +472,7 @@ Dairy products, such as milk, cheese, and plain yogurt, are safe for dogs to hav
 
 1. https://www.medicalnewstoday.com/articles/324453
 2. https://www.healthline.com/nutrition/human-foods-for-dogs
+3. https://www.dogfoodadvisor.com/dog-feeding-tips/dogs-milk-dairy-products/
 
 # Eggs
 
@@ -479,6 +485,8 @@ Dairy products, such as milk, cheese, and plain yogurt, are safe for dogs to hav
 Cooked eggs are perfectly safe and nutritious for dogs to eat. One medium egg provides some of almost every vitamin and mineral, plus lots of protein. There are claims that eggs may also help relieve nausea in dogs, although there is no scientific evidence behind this claim. It is important to note that you should avoid feeding raw eggs to your dog. While dogs typically do not get sick from eating raw eggs, bacteria, such as Salmonella, can spread from the dog to its human owners, increasing their risk of infection.
 
 1. https://www.healthline.com/nutrition/human-foods-for-dogs
+2. https://pets.webmd.com/dogs/can-dogs-eat-eggs
+3. https://www.akc.org/expert-advice/nutrition/can-dogs-eat-eggs/
 
 > Likes eggs a little
 
@@ -491,6 +499,8 @@ Cooked eggs are perfectly safe and nutritious for dogs to eat. One medium egg pr
 Falafel is usually made with soaked raw chickpeas or chickpea flour. While neither of these may harm, other ingredients such as onions or garlic added to the falafel are bad for dogs. These can cause fatal anemia. Some signs of anemia are weakness, depression, or rapid breathing. Falafel is often deep-fried, so it’s not the best food choice. The fat from the oil can cause gut problems and a painful condition called pancreatitis.
 
 1. https://www.loveyourdog.com/can-dogs-eat-chickpeas/
+2. https://www.mypetchild.com/dogs/health/eat-falafel/
+3. https://petkeen.com/can-dogs-eat-falafel/
 
 # Fish
 
@@ -504,6 +514,7 @@ Salmon, shrimp, and tuna are all safe for dogs to eat and good sources of protei
 
 1. https://www.medicalnewstoday.com/articles/324453
 2. https://www.healthline.com/nutrition/human-foods-for-dogs
+3. https://vetexplainspets.com/can-dogs-eat-fish/
 
 > Loves all kinds of fish including salmon and fish skin
 
@@ -511,11 +522,13 @@ Salmon, shrimp, and tuna are all safe for dogs to eat and good sources of protei
 
 `spice, vegetable`
 
--   MAYBE
+-   OK
 
 Yes! Ginger is safe for your dog to eat in small doses. It contains many antioxidants that can support dogs with motion sickness, blood circulation, nausea, gastrointestinal problems, and bloat. Ginger is anti-inflammatory and also help dogs with arthritis.
 
 1. https://www.rover.com/blog/can-my-dog-eat-ginger/
+2. https://www.akc.org/expert-advice/nutrition/can-dogs-eat-ginger/
+3. https://dogfood.guide/can-dogs-eat-ginger/
 
 # Grapes
 
@@ -539,6 +552,7 @@ Yes, dogs can eat green beans. Chopped, steamed, raw, or canned – all types of
 
 1. https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/
 2. https://www.medicalnewstoday.com/articles/324453
+3. https://www.petmd.com/dog/nutrition/can-dogs-eat-green-beans
 
 > Used to like small pieces of beans, but now not too keen.
 
@@ -550,9 +564,11 @@ Yes, dogs can eat green beans. Chopped, steamed, raw, or canned – all types of
 
 -   MAYBE
 
-You should only feed honey to your dog in limited amounts. Honey has a high sugar content, which can add up in calories and contribute to weight gain if your dog eats too much. If you want to feed your dog honey as a treat every once in awhile, it is best to provide him with only a very small amount.
+You should only feed honey to your dog in limited amounts. Honey has a high sugar content, which can add up in calories and contribute to weight gain if your dog eats too much. If you want to feed your dog honey as a treat every once in awhile, it is best to provide him with only a very small amount. While raw honey is safe for adult dogs, it should not be offered to puppies, dogs with compromised immune systems, or diabetic or obese dogs.
 
 1. https://www.healthline.com/nutrition/human-foods-for-dogs
+2. https://www.petmd.com/dog/nutrition/can-dogs-eat-honey
+3. https://www.thesprucepets.com/can-dogs-eat-honey-4798037
 
 # Hummus
 
@@ -563,6 +579,8 @@ You should only feed honey to your dog in limited amounts. Honey has a high suga
 Hummus is Toxic for Your Dog! Meaning, you may still feed your dog chickpeas if you want to, but the superfood hummus does not only contain chickpeas, it also has olive oil, lemon juice, garlic, and salt to enrich its flavour, making it complicated for your dog. ... Hence, avoid any type of acidic food for your dog.
 
 1. https://www.mypetneedsthat.com/can-dogs-eat-hummus/
+2. https://www.m-dog.org/can-dogs-eat-hummus/
+3. https://expertanimal.com/can-dogs-eat-hummus/
 
 # Ice Cream
 
@@ -573,6 +591,8 @@ Hummus is Toxic for Your Dog! Meaning, you may still feed your dog chickpeas if 
 Dogs should not eat ice cream, due to its high sugar content. Also, some dogs are lactose intolerant.
 
 1. https://www.medicalnewstoday.com/articles/324453
+2. https://www.dogsnaturallymagazine.com/can-dogs-have-ice-cream/
+3. https://www.akc.org/expert-advice/nutrition/can-dogs-eat-ice-cream/
 
 # Lentils
 
@@ -583,6 +603,8 @@ Dogs should not eat ice cream, due to its high sugar content. Also, some dogs ar
 Yes. Lentils are a great source of iron, fiber, and plant-based protein. Lentil's low-calorie, high-fiber content helps dogs feel fuller when eating and while keeping blood levels from spiking too sharply after a meal.
 
 1. https://www.rover.com/blog/can-dog-eat-lentils/
+2. https://topdogtips.com/can-dogs-eat-lentils/
+3. https://www.thepamperedpup.com/can-dogs-eat-lentils/
 
 # Liquorice
 
@@ -593,6 +615,8 @@ Yes. Lentils are a great source of iron, fiber, and plant-based protein. Lentil'
 While you might like Twizzlers as a treat, licorice candy is not safe for dogs. It tends to be high in sugar and many candy companies use xylitol, an artificial sweetener, in addition to many other artificial ingredients which are not beneficial for you or your dog's health.
 
 1. https://www.greatpetcare.com/wellness/licorice-root-for-dogs-benefits-and-uses/
+2. https://dogfood.guide/can-dogs-eat-licorice/
+3. https://earthnworld.com/can-dogs-eat-licorice/
 
 # Mango
 
@@ -604,6 +628,7 @@ Yes, dogs can eat mangoes. This sweet summer treat is packed with four different
 
 1. https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/
 2. https://www.healthline.com/nutrition/human-foods-for-dogs
+3. https://www.petmd.com/dog/nutrition/can-dogs-eat-mango
 
 > Does not like mango
 
@@ -630,6 +655,8 @@ Dogs who consume marijuana may exhibit symptoms such as lethargy, delayed respon
 Most dogs are fine eating lean cuts of meat that have been cooked well. Take off all visible fat -- including the skin on poultry. Be sure that there are no bones in the meat before you give it to your dog.
 
 1. https://pets.webmd.com/dogs/ss/slideshow-foods-your-dog-should-never-eat
+2. https://www.purina.com/articles/dog/nutrition/can-dogs-eat-raw-meat
+3. https://www.akc.org/expert-advice/nutrition/do-dogs-need-meat-in-their-diets/
 
 > Loves meat
 
@@ -642,6 +669,8 @@ Most dogs are fine eating lean cuts of meat that have been cooked well. Take off
 If pets are unlucky and consume certain kinds of fungi or mould present on old food, compost and organic waste, it can lead to the ingestion of dangerous neurotoxins and ultimately a life-threatening condition called mycotoxicity.
 
 1. https://dralexhynes.com.au/can-eating-mouldy-food-harm-my-pet/
+2. https://petfoodfuss.com/dogs/can-dogs-eat-moldy-bread/
+3. https://animalpoisons.com.au/news/compost-and-your-dog
 
 # Mushrooms
 
@@ -652,6 +681,8 @@ If pets are unlucky and consume certain kinds of fungi or mould present on old f
 No, dogs should avoid mushrooms. Wild mushrooms can be toxic for dogs. While only 50-100 of the 50,000 mushroom species worldwide are known to be toxic, the ones that are poisonous can really hurt your dog or even lead to death. Washed white mushrooms from the supermarket could be OK, but it’s better to be safe than sorry; skip the fungi for Fido all together.
 
 1. https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/
+2. https://www.petmd.com/dog/nutrition/can-dogs-eat-mushrooms
+3. https://www.thesprucepets.com/can-dogs-eat-mushrooms-4845258
 
 # Mustard
 
@@ -662,6 +693,8 @@ No, dogs should avoid mushrooms. Wild mushrooms can be toxic for dogs. While onl
 No. Mustard contains mustard seeds that are unsafe for dogs. ... If your dog simply licks a plate with mustard on it, he may have no symptoms; however, if your dog eats a large amount of mustard, be sure to call your vet.
 
 1. https://www.rover.com/blog/can-my-dog-eat-mustard/
+2. https://www.purina.co.uk/articles/dogs/feeding/what-dogs-eat/can-dogs-eat-mustard
+3. https://ourfitpets.com/health/digestive-system/my-dog-ate-mustard-will-he-get-sick/
 
 # Nectarine
 
@@ -672,6 +705,8 @@ No. Mustard contains mustard seeds that are unsafe for dogs. ... If your dog sim
 Yes. Nectarines are a good source of vitamins A and C, potassium, magnesium, and dietary fiber, which is good for a dog's digestive system.
 
 1. https://www.rover.com/blog/can-dog-eat-nectarines/
+2. https://www.thesprucepets.com/can-dogs-eat-nectarines-4844953
+3. https://expertanimal.com/can-dogs-eat-nectarines/
 
 # Nutmeg
 
@@ -729,7 +764,7 @@ No, dogs should never eat onions. Onions, leeks, and chives are part of a family
 
 Oysters should be cooked, and the shells removed, before consumption. Canned oysters should always be packed in water, not oils or spices.
 
-1. https://www.rover.com/blog/can-dog-eat-oysters/#:~:text=Yes!,your%20pet%20maintain%20healthy%20muscles.
+1. https://www.rover.com/blog/can-dog-eat-oysters/
 
 # Pancakes
 
