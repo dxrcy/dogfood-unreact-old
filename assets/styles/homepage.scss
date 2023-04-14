@@ -8,19 +8,41 @@ main {
             a:not(:hover, :focus-visible) {
                 text-decoration: none;
             }
+
+            @media print {
+                padding: 0;
+
+                li {
+                    display: inline-block;
+                    width: 220px;
+                    margin-left: 20px;
+
+                    &:before {
+                        content: "•";
+                        margin-right: 5px;
+                    }
+                }
+            }
         }
     }
 
     .long-list {
         article {
+            page-break-inside: avoid;
             overflow: hidden;
 
-            &:not(:first-of-type) {
-                margin-top: 50px;
+            @media screen {
+                &:not(:first-of-type) {
+                    margin-top: 50px;
+                }
             }
 
             hr {
                 opacity: 0.5;
+
+                @media print {
+                    display: none;
+                }
             }
 
             h1 {
@@ -39,8 +61,10 @@ main {
                 ul {
                     margin-top: 0;
 
-                    a:not(:hover, :focus-visible) {
-                        text-decoration: none;
+                    @media screen {
+                        a:not(:hover, :focus-visible) {
+                            text-decoration: none;
+                        }
                     }
                 }
             }
@@ -67,62 +91,78 @@ main {
                         }
                     }
                 }
+
+                @media print {
+                    display: none;
+                }
             }
         }
     }
 
     .side-panel {
         font-size: small;
+        page-break-inside: avoid;
 
-        hr:first-of-type {
-            margin-top: 100px;
+        @media screen {
+            hr:first-of-type {
+                margin-top: 100px;
+            }
         }
 
         h1 {
             font-size: large;
         }
+
+        @media print {
+            a {
+                text-decoration: none;
+            }
+        }
     }
 
-    @media (min-width: 700px) {
-        display: flex;
+    @media screen {
+        @media (min-width: 700px) {
+            // @media (min-width: 700000px) {
+            display: flex;
 
-        .short-list {
-            height: fit-content;
-            flex-shrink: 0;
+            .short-list {
+                height: fit-content;
+                flex-shrink: 0;
 
-            margin-right: 30px;
-            padding-right: 30px;
-            padding-top: 10px;
-            padding-bottom: 60px;
+                margin-right: 30px;
+                padding-right: 30px;
+                padding-top: 10px;
+                padding-bottom: 60px;
 
-            border-right: 2px ridge grey;
-        }
+                border-right: 2px ridge grey;
+            }
 
-        .long-list {
-            width: 100%;
+            .long-list {
+                width: 100%;
 
-            article {
-                &:first-of-type {
-                    hr {
-                        display: none;
-                    }
+                article {
+                    &:first-of-type {
+                        hr {
+                            display: none;
+                        }
 
-                    h1 {
-                        margin-top: 10px;
+                        h1 {
+                            margin-top: 10px;
+                        }
                     }
                 }
             }
-        }
 
-        .side-panel {
-            padding-left: 20px;
+            .side-panel {
+                padding-left: 20px;
 
-            hr:first-of-type {
-                display: none;
-            }
+                hr:first-of-type {
+                    display: none;
+                }
 
-            h1 {
-                margin-top: 10px;
+                h1 {
+                    margin-top: 10px;
+                }
             }
         }
     }
@@ -136,5 +176,9 @@ main {
     button {
         font-size: large;
         cursor: pointer;
+    }
+
+    @media print {
+        display: none;
     }
 }

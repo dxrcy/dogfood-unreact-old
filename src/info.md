@@ -224,7 +224,7 @@ Yes, dogs can eat carrots. Carrots are an excellent low-calorie snack that is hi
 
 -   MAYBE
 
-You should limit your dog’s intake of cashews. Plain, unsalted and roasted cashews are safe for most dogs to eat in moderation. However, cashews are high in fat and calories and may lead to weight gain and pancreatitis when consumed in excess (4, 11Trusted Source). For these reasons, you should limit your dog’s intake to one or two cashews a day or less.
+You should limit your dog’s intake of cashews. Plain, unsalted and roasted cashews are safe for most dogs to eat in moderation. However, cashews are high in fat and calories and may lead to weight gain and pancreatitis when consumed in excess. For these reasons, you should limit your dog’s intake to one or two cashews a day or less. Raw nuts contain compounds that make them harder to digest than roasted/cooked nuts which can increase the likelihood of stomach upset. 
 
 1. https://www.healthline.com/nutrition/human-foods-for-dogs
 2. https://www.akc.org/expert-advice/nutrition/can-dogs-eat-cashews/
@@ -717,6 +717,8 @@ Yes. Nectarines are a good source of vitamins A and C, potassium, magnesium, and
 Nutmeg is not safe for dogs to eat. This is because nutmeg contains myristicin, a compound that is toxic to dogs when consumed in large amounts. It may cause disorientation, increased heart rate, high blood pressure, dry mouth, stomach pain and seizures. You should keep nutmeg out of your dog’s reach and prevent him from consuming baked goods and other foods that contain nutmeg.
 
 1. https://www.healthline.com/nutrition/human-foods-for-dogs
+2. https://www.akc.org/expert-advice/nutrition/can-my-dog-eat-nutmeg/
+3. https://dogadvisorycouncil.com/can-dogs-eat-nutmeg/
 
 # Nuts
 
@@ -726,9 +728,11 @@ Nutmeg is not safe for dogs to eat. This is because nutmeg contains myristicin, 
 
 -   BAD
 
-Avoid giving nuts to dogs. Macadamia nuts are poisonous to dogs and can cause muscle weakness, vomiting, lethargy, and hyperthermia. Other types of nuts can cause dogs to choke. Dangerous nuts include: Macadamias, Pistachios, and Walnuts, with Almonds, Cashews, and Peanuts possibly being safe in small quantities (See individual entries).
+Avoid giving nuts to dogs. Macadamia nuts are poisonous to dogs and can cause muscle weakness, vomiting, lethargy, and hyperthermia. Other types of nuts can cause dogs to choke. Dangerous nuts include: Macadamias, Pistachios, and Walnuts, with Almonds, ROASTED Cashews, Hazelnuts, and Peanuts possibly being safe in small quantities (See individual entries).
 
 1. https://www.medicalnewstoday.com/articles/324453
+2. https://www.preventivevet.com/pets/safe-and-unsafe-nuts-and-seeds-for-pets
+3. https://www.petmd.com/dog/nutrition/can-dogs-eat-nuts
 
 # Oats / Oatmeal
 
@@ -739,6 +743,8 @@ Avoid giving nuts to dogs. Macadamia nuts are poisonous to dogs and can cause mu
 Plain oatmeal is safe for your dog to eat. Oatmeal provides lots of fiber, as well as some vitamins and minerals. As with all foods, you should feed oatmeal to your dog in moderation to prevent him from gaining weight. Additionally, it is important to only feed plain oatmeal to your dog, instead of flavored oatmeal. Flavored oatmeal may have extra ingredients added to it that could be harmful to your dog.
 
 1. https://www.healthline.com/nutrition/human-foods-for-dogs
+2. https://www.dogsnaturallymagazine.com/introduction-to-oats-for-dogs/
+3. https://www.akc.org/expert-advice/nutrition/can-dogs-eat-oatmeal/
 
 > Loves plain oats. Will eat them out of ones hand
 
@@ -765,6 +771,8 @@ No, dogs should never eat onions. Onions, leeks, and chives are part of a family
 Oysters should be cooked, and the shells removed, before consumption. Canned oysters should always be packed in water, not oils or spices.
 
 1. https://www.rover.com/blog/can-dog-eat-oysters/
+2. https://www.dogfoodgenius.com/can-dogs-eat-oysters/
+3. https://www.masterclass.com/articles/can-dogs-eat-oysters
 
 # Pancakes
 
@@ -1108,6 +1116,18 @@ Yes, dogs can eat strawberries. Strawberries are full of fiber and vitamin C. Al
 
 1. https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/
 2. https://www.healthline.com/nutrition/human-foods-for-dogs
+
+# Sunflower Seeds
+
+`seed, nut`
+
+- OK
+
+Dogs should be given only natural raw or toasted sunflower seeds (not salted ones). Studies on the effects of fatty acids on dogs have shown that, given as a dietary supplement, they improve the condition of a dog’s skin and contribute to a healthy, shiny coat.
+
+1. https://www.akc.org/expert-advice/nutrition/can-dogs-eat-sunflower-seeds/
+2. https://topdogtips.com/can-dogs-eat-sunflower-seeds/
+3. https://www.greatpetcare.com/dog-nutrition/can-dogs-eat-sunflower-seeds/
 
 # Sweet potatoes
 
