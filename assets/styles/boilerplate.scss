@@ -29,3 +29,15 @@ body {
         }
     }
 }
+
+// Override short-style links for print
+.ShortLink {
+    @media print {
+        .short {
+            display: none;
+        }
+        .long {
+            display: initial !important;
+        }
+    }
+}

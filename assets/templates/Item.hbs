@@ -23,9 +23,7 @@
         <ul>
             {{#each sources}}
             <li>
-                <a href="{{this}}">
-                    {{(url-domain this)}}
-                </a>
+                {{>ShortLink link=this}}
             </li>
             {{/each}}
         </ul>

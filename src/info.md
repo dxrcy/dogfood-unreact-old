@@ -783,6 +783,8 @@ Oysters should be cooked, and the shells removed, before consumption. Canned oys
 The simple answer is yes, dogs can eat pancakes! Unless your canine friend has a dairy intolerance or an allergy, there shouldn’t be anything in pancake batter to cause them any harm. Remember, however, that pancakes are high in both carbohydrates and fat, so should only be fed to dogs in small amounts and as an occasional treat. Otherwise you could find your dog putting on weight\*, or suffering from some serious indigestion.
 
 1. https://www.theinsuranceemporium.co.uk/blog/is-it-safe-for-pets-to-eat-pancakes/
+2. https://www.masterclass.com/articles/can-dogs-eat-pancakes
+3. https://dogfood.guide/can-dogs-eat-pancakes/
 
 > Likes pancakes
 
@@ -795,6 +797,8 @@ The simple answer is yes, dogs can eat pancakes! Unless your canine friend has a
 Technically, the flesh of the fruit itself is not toxic to canines. Still, other parts of the fruit are, and separating them out is difficult or close to impossible. For that reason, it is recommended that you keep your pet away from passion fruit.
 
 1. https://dogwish.com/nutrition/fruits/can-dogs-eat-passion-fruit
+2. https://www.dogarea.org/can-dogs-eat-passion-fruit/
+3. https://www.masterclass.com/articles/can-dogs-eat-passionfruit
 
 # Pasta
 
@@ -805,6 +809,8 @@ Technically, the flesh of the fruit itself is not toxic to canines. Still, other
 Plain pasta, cooked or uncooked, is typically okay for dogs. Pasta is generally made from simple ingredients like eggs, flour, and water. Those ingredients are safe for dogs to eat. Do not give your dog too much uncooked pasta, as it can swell in their stomach
 
 1. https://www.thesprucepets.com/can-dogs-eat-pasta-4796955
+2. https://dogfood.guide/can-dogs-eat-pasta/
+3. https://www.masterclass.com/articles/can-dogs-eat-pasta
 
 > Loves pasta
 
@@ -817,16 +823,20 @@ Plain pasta, cooked or uncooked, is typically okay for dogs. Pasta is generally 
 Yes, peaches are safe for dogs to eat. Small amounts of cut-up fresh or frozen peaches are a great source of fiber and vitamin A, and can even help fight infections, but just like cherries, the pit contains cyanide. As long as you completely cut around the pit first, fresh peaches can be a great summer treat. Skip canned peaches, as they usually contain high amounts of sugary syrups.
 
 1. https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/
+2. https://www.thesprucepets.com/can-dogs-eat-peaches-4800543
+3. https://www.petmd.com/dog/nutrition/can-dogs-eat-peaches
 
 # Plum, Persimmon
 
 `fruit, pip`
 
--   BAD
+-   MAYBE
 
 Seeds from persimmons can cause problems in a dog's small intestine. They can also block their intestines. That can also happen if a dog eats the pit from a peach or plum. Peach and plum pits also have cyanide, which is poisonous to people and dogs.
 
 1. https://pets.webmd.com/dogs/ss/slideshow-foods-your-dog-should-never-eat
+2. https://www.loveyourdog.com/can-dogs-eat-plums/
+3. https://www.dogfoodgenius.com/can-dogs-eat-plums/
 
 # Peanut
 
@@ -837,6 +847,8 @@ Seeds from persimmons can cause problems in a dog's small intestine. They can al
 Plain, unsalted peanuts are safe for dogs to eat in small quantities. Similar to other nuts, peanuts are high in fat and may contribute to weight gain and pancreatitis if your dog eats too many of them. Additionally, peanuts often contain added ingredients like salt that could be harmful to dogs. If you feed your dog peanuts, it is best to only give him a few plain peanuts at a time.
 
 1. https://www.healthline.com/nutrition/human-foods-for-dogs
+2. https://www.akc.org/expert-advice/nutrition/can-dogs-eat-peanuts/
+3. https://www.petmd.com/dog/nutrition/can-dogs-eat-peanuts
 
 > Likes peanuts
 
@@ -850,6 +862,7 @@ Unsalted peanut butter with no added sugar or sweeteners is safe for dogs to eat
 
 1. https://www.medicalnewstoday.com/articles/324453
 2. https://www.healthline.com/nutrition/human-foods-for-dogs
+3. https://www.petmd.com/dog/nutrition/can-dogs-eat-peanut-butter
 
 > Loves peanut butter, but not as much as one would expect.
 
@@ -864,7 +877,6 @@ Unsalted peanut butter with no added sugar or sweeteners is safe for dogs to eat
 Yes, dogs can eat pears. Pears are a great snack because they’re high in copper, vitamins C and K, and fiber. It’s been suggested that eating the fruit can reduce the risk of having a stroke by 50 percent. Just be sure to cut pears into bite-size chunks and remove the pit and seeds first, as the seeds contain traces of cyanide. Skip canned pears with sugary syrups.
 
 1. https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/
-2. https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/
 
 # Peas
 

@@ -114,15 +114,16 @@ main {
         }
 
         @media print {
-            a {
-                text-decoration: none;
+            ul {
+                a {
+                    text-decoration: none;
+                }
             }
         }
     }
 
     @media screen {
         @media (min-width: 700px) {
-            // @media (min-width: 700000px) {
             display: flex;
 
             .short-list {

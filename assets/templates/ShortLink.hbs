@@ -1,0 +1,29 @@
+<span class="ShortLink">
+    {{#if text}}
+
+    {{!-- Short version - Custom text --}}
+    <span class="short">
+        <a href="{{link}}">{{text}}</a>
+    </span>
+
+    {{!-- Long version - With custom text --}}
+    <span class="long" style="display: none">
+        <span class="text">{{text}}</span>
+        (<a href="{{link}}">{{link}}</a>)
+    </span>
+
+    {{else}}
+
+    {{!-- Short version - Url domain name --}}
+    <span class="short">
+        <a href="{{link}}">{{url-domain link}}</a>
+    </span>
+
+    {{!-- Long version --}}
+    <span class="long" style="display: none">
+        <a href="{{link}}">{{link}}</a>
+    </span>
+
+    {{/if}}
+
+</span>
