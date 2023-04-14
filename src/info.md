@@ -877,6 +877,8 @@ Unsalted peanut butter with no added sugar or sweeteners is safe for dogs to eat
 Yes, dogs can eat pears. Pears are a great snack because they’re high in copper, vitamins C and K, and fiber. It’s been suggested that eating the fruit can reduce the risk of having a stroke by 50 percent. Just be sure to cut pears into bite-size chunks and remove the pit and seeds first, as the seeds contain traces of cyanide. Skip canned pears with sugary syrups.
 
 1. https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/
+2. https://www.petmd.com/dog/nutrition/can-dogs-eat-pears
+3. https://www.animalwised.com/can-dogs-eat-pears-3191.html
 
 # Peas
 
@@ -888,6 +890,7 @@ Yes, dogs can eat peas. Green peas, snow peas, sugar snap peas, and garden or En
 
 1. https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/
 2. https://www.healthline.com/nutrition/human-foods-for-dogs
+3. https://www.thesprucepets.com/can-dogs-eat-peas-4801107
 
 # Pineapple
 
@@ -899,6 +902,7 @@ Yes, pineapple is safe for dogs to eat. A few chunks of pineapple is a great swe
 
 1. https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/
 2. https://www.healthline.com/nutrition/human-foods-for-dogs
+3. https://www.veterinarians.org/can-dogs-eat-pineapple/
 
 # Pistachio nuts
 
@@ -909,6 +913,8 @@ Yes, pineapple is safe for dogs to eat. A few chunks of pineapple is a great swe
 Eaten in large quantities pistachios can cause gastrointestinal distress, obesity, and pancreatitis. ... Although pistachios are not directly toxic to dogs they are not recommended. The canine system is not designed to process nuts and they ultimately cause gastrointestinal distress, obesity, and pancreatitis.
 
 1. https://wagwalking.com/condition/pistachio-poisoning
+2. https://betterpet.com/can-dogs-eat-pistachios/
+3. https://www.petmd.com/dog/nutrition/can-dogs-eat-pistachios
 
 # Popcorn
 
@@ -922,6 +928,7 @@ Plain popcorn, without salt, butter, or sugar, can be a nutritional treat for do
 
 1. https://www.medicalnewstoday.com/articles/324453
 2. https://www.healthline.com/nutrition/human-foods-for-dogs
+3. https://www.akc.org/expert-advice/nutrition/can-dogs-eat-popcorn/
 
 > Likes popcorn, but not plain.
 
@@ -937,6 +944,7 @@ Unseasoned, cooked pork is safe for dogs to eat. However, they should only consu
 
 1. https://www.medicalnewstoday.com/articles/324453
 2. https://www.healthline.com/nutrition/human-foods-for-dogs
+3. https://www.akc.org/expert-advice/nutrition/can-dogs-eat-pork/
 
 > Loves pork
 
@@ -946,11 +954,13 @@ Unseasoned, cooked pork is safe for dogs to eat. However, they should only consu
 
 `vegetable`
 
--   OK
+-   MAYBE
 
-Dogs can eat plain potatoes that have been cooked. However, you should never feed your dog raw potatoes. Raw potatoes contain solanine, a compound that is toxic to dogs. Cooking potatoes reduces their solanine levels. Potatoes should only be fed to dogs in small amounts, as their high carbohydrate content may cause dogs to gain weight if they eat them in large quantities.
+Dogs can eat plain potatoes that have been cooked. However, you should never feed your dog raw potatoes. Raw potatoes contain solanine, a compound that is toxic to dogs. Cooking potatoes reduces their solanine levels. Potatoes should only be fed to dogs in small amounts, as their high carbohydrate content may cause dogs to gain weight if they eat them in large quantities. Recent research has suggested that potatoes, while not poisonous, may not be appropriate for a dog’s everyday diet. 
 
 1. https://www.healthline.com/nutrition/human-foods-for-dogs
+2. https://www.akc.org/expert-advice/nutrition/can-dogs-eat-potatoes/
+3. https://www.rover.com/blog/can-dogs-eat-potatoes/
 
 # Pumpkin
 
@@ -963,6 +973,8 @@ Dogs can eat plain potatoes that have been cooked. However, you should never fee
 Pumpkins and pumpkin seeds are healthy foods for humans, and they also have several known health benefits for dogs. Dogs can safely eat pumpkin seeds as well as cooked or raw pumpkin. It is always best to check with your veterinarian to determine a healthy percentage of pumpkin as an addition to your dog’s diet.
 
 1. https://www.eahpet.com/2019/04/26/benefits-of-pumpkin-for-your-dog/
+2. https://www.petmd.com/dog/nutrition/can-dogs-eat-pumpkin
+3. https://pets.webmd.com/dogs/can-i-give-dog-pumpkin
 
 # Pumpkin skin, stem
 
@@ -973,6 +985,8 @@ Pumpkins and pumpkin seeds are healthy foods for humans, and they also have seve
 Don't give your dog the skin or any portion of the stem. Neither are considered toxic, but they'll probably come out looking the same as they did going in (your dog won't digest them), and they could cause blockages or discomfort. You can feed your dog raw or cooked pumpkin.
 
 1. https://www.k9ofmine.com/can-dogs-eat-pumpkin/
+2. https://hayfarmguy.com/can-dogs-eat-pumpkin-skin
+3. https://www.mypetchild.com/dogs/health/eat-pumpkin-skin/
 
 # Quinoa
 
@@ -983,6 +997,8 @@ Don't give your dog the skin or any portion of the stem. Neither are considered 
 Quinoa is an extremely healthy food for humans. It’s packed with protein, calcium, and other nutrients. But, can dogs eat quinoa? The answer is generally yes. The edible seed is actually an ingredient in some high-quality dry dog foods. Its strong nutritional profile makes it a healthy alternative to corn, wheat, and soy — starches that are often used to make kibble.
 
 1. https://www.akc.org/expert-advice/nutrition/can-dogs-eat-quinoa/
+2. https://www.thesprucepets.com/can-dogs-eat-quinoa-4777479
+3. https://www.hillspet.com/dog-care/nutrition-feeding/can-dogs-eat-quinoa
 
 # Raspberries
 
@@ -995,6 +1011,8 @@ Quinoa is an extremely healthy food for humans. It’s packed with protein, calc
 Yes, dogs can eat raspberries. Raspberries are fine in moderation. They contain antioxidants that are great for dogs. They’re low in sugar and calories, but high in fiber, manganese, and vitamin C. Raspberries are especially good for senior dogs because they have anti-inflammatory properties, which can help aging joints. However, they do contain small amounts of xylitol, so limit your dog to less than a cup of raspberries at a time.
 
 1. https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/
+2. https://www.petmd.com/dog/nutrition/can-dogs-eat-raspberries
+3. https://topdogtips.com/can-dogs-eat-raspberries/
 
 > Likes raspberries sometimes
 
@@ -1007,6 +1025,8 @@ Yes, dogs can eat raspberries. Raspberries are fine in moderation. They contain 
 Eating raw eggs can lead to biotin deficiency in dogs, which may affect the health of their skin and coat.
 
 1. https://www.medicalnewstoday.com/articles/324453
+2. https://www.petmd.com/dog/nutrition/evr_multi_eggs_for_pets2
+3. https://www.mypetwarehouse.com.au/my-pet-blog/expert-pet-advice/can-dogs-eat-raw-eggs
 
 # Raw meat
 
